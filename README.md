@@ -2,12 +2,36 @@
 
 공식문서(react.dev)를 기준으로 학습하며 내용을 기록합니다.
 
+<details>
+<summary>📚  Docs & Reference</summary>
 <br>
-
-### Reference
+React
 
 - [React Docs EN](https://react.dev/)
 - [React Docs KO](https://react.dev/)
+
+TailwindCSS
+
+- [Installation](https://tailwindcss.com/docs/installation/using-vite)
+- [Preflight](https://tailwindcss.com/docs/preflight)
+- [↳ Preflight Stylesheet](https://github.com/tailwindlabs/tailwindcss/blob/main/packages/tailwindcss/preflight.css)
+- [@apply](https://tailwindcss.com/docs/functions-and-directives#apply-directive)
+</details>
+
+<br>
+
+### 🎨 Styling Approach
+
+이 저장소에서는 `Tailwind CSS`를 사용해 스타일링을 진행합니다.  
+React 공식 문서를 따라가면서, 동시에 Tailwind 스타일링 방식도 함께 학습하기 위함입니다.
+
+- CSS-in-JS (styled-components)나 Sass보다
+  utility-first 방식으로 빠르게 스타일을 적용할 수 있어
+  학습 예제 구현에 집중할 수 있습니다.
+- 반응형 · 다크모드 같은 기능을 클래스 조합만으로 시도할 수 있어,
+  React 학습과 함께 Tailwind의 특성을 체험할 수 있습니다.
+- 추후에 다른 방식(styled-components, Sass 등)과 비교해
+  장단점을 기록할 예정입니다.
 
 <br>
 
