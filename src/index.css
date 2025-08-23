@@ -4,3 +4,7 @@ html,
 body {
   @apply h-screen bg-neutral-950 text-neutral-50;
 }
+
+section {
+  @apply grid px-10 py-5 gap-4;
+}
