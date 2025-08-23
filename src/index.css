@@ -6,5 +6,5 @@ body {
 }
 
 section {
-  @apply grid px-10 py-5 gap-4;
+  @apply grid px-10 gap-4;
 }
