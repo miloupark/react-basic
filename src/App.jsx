@@ -13,7 +13,7 @@ export default function App() {
       {/* 라우터 매핑: URL → 화면 컴포넌트  */}
       <Routes>
         {/* Home */}
-        <Route path="/" element={<HomePage />}></Route>
+        <Route index element={<HomePage />}></Route>
 
         {/* Basic Layout: React Basic 경로들*/}
         <Route path="/" element={<BasicLayout />}>
