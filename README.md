@@ -13,6 +13,13 @@ React
 React Router
 
 - [NavLink](https://reactrouter.com/api/components/NavLink#navlink)
+- [useLocation](https://reactrouter.com/api/hooks/useLocation#uselocation)
+
+NPM package
+
+- [react-syntax-highlighter](https://www.npmjs.com/package/react-syntax-highlighter)
+- [↳ React Syntax Highlighter Demo](https://react-syntax-highlighter.github.io/react-syntax-highlighter/demo/prism-async-light.html)
+- [↳ GitHub](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
 
 TailwindCSS
 
