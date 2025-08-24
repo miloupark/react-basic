@@ -20,6 +20,11 @@ TailwindCSS
 - [Preflight](https://tailwindcss.com/docs/preflight)
 - [↳ Preflight Stylesheet](https://github.com/tailwindlabs/tailwindcss/blob/main/packages/tailwindcss/preflight.css)
 - [@apply](https://tailwindcss.com/docs/functions-and-directives#apply-directive)
+
+Lucid (Icons)
+
+- [Installation](https://lucide.dev/guide/installation)
+- [Icons](https://lucide.dev/icons/)
 </details>
 
 <br>
