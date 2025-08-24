@@ -1,7 +1,7 @@
 import { BrowserRouter, Link, Route, Routes } from "react-router-dom";
 import { ComponentPage, DataPage, EventPage, ListPage, PropsPage, StylePage } from "./basic";
 import BasicLayout from "./layouts/BasicLayout";
-import Header from "./components/header";
+import Header from "./components/Header";
 
 export default function App() {
   return (
